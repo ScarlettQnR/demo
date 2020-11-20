@@ -1,0 +1,14 @@
+
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Àÿ»ûÿÿÿÿ
+W
+java:S1854"CRemove this useless assignment to local variable "luminosityCells".(£õÒˆ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(úÍôù
+V	java:S125"<This block of commented-out lines of code should be removed.(ÿ°‚ö8ß¦„¹Ú.
+F
+java:S1068"2Remove this unused "WIDTH_TO_SCALE" private field.(˜¼¸ï
+T	java:S125"<This block of commented-out lines of code should be removed.(ç·Ëûşÿÿÿÿ
+S
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+H
+java:S1481"4Remove this unused "luminosityCells" local variable.(£õÒˆ
+[	java:S125"<This block of commented-out lines of code should be removed.(ÌêØ¯şÿÿÿÿ8ß¦„¹Ú.

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kaggle-api-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../kaggle-api-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
